@@ -1,4 +1,4 @@
-device_type: <Type of sensor: 11=DHT11, 22=DHT22, 2302=AM2302>
+device_type: <Type of sensor: 11=DHT11, 22=DHT22 or AM2302>
 gpio_pin: <GPIO pin that device is connected to>
 base_url: <local URL in quotes>
 temperature_item_name: <openHAB item name>
